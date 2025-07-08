@@ -1,2 +1,9 @@
-# sql-practice-leetcode-50
-Practice solutions for the LeetCode SQL 50 challenge set. Each file includes a standalone query with clear formatting, comments, and links to the original problem. This repo serves as a learning archive and reference for SQL interview prep.
+# LeetCode SQL 50 Practice
+
+Solving all 50 SQL challenges on LeetCode. Each solution is saved as a standalone `.sql` file.
+
+| # | Problem | Status |
+|---|---------|--------|
+| 1 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | ✅ |
+| 2 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | ✅ |
+| 3 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🔄 |

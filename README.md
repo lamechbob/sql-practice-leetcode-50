@@ -22,8 +22,8 @@ This repository contains SQL solutions for the [LeetCode SQL 50](https://leetcod
 | 16 | Average Selling Price | Easy | [ ] |
 | 17 | Project Employees I | Easy | [ ] |
 | 18 | Percentage of Users Attended a Contest | Easy | [ ] |
-| 19 | Queries Quality and Percentage | Easy | [ ] |
-| 20 | Monthly Transactions I | Medium | [ ] |
+| 19 | Queries Quality and Percentage | Easy | [✅] |
+| 20 | Monthly Transactions I | Medium | [✅] |
 | 21 | Immediate Food Delivery II | Medium | [ ] |
 | 22 | Game Play Analysis IV | Medium | [ ] |
 | 23 | Number of Unique Subjects Taught by Each Teacher | Easy | [ ] |

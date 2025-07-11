@@ -25,10 +25,10 @@ FROM TRANSACTIONS T
 
 -- Group by month and country for roll-up
 GROUP BY 
-TO_CHAR(T.TRANS_DATE, 'yyyy-mm'),
-T.COUNTRY
+  TO_CHAR(T.TRANS_DATE, 'yyyy-mm'),
+  T.COUNTRY
 
 -- Sort results by country in descending order
 ORDER BY 
-T.COUNTRY DESC;
+  T.COUNTRY DESC;
 
